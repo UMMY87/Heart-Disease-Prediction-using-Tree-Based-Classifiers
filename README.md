@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-using-Tree-Based-Classifiers
+# Heart Disease Prediction using Tree Based Classifiers
 
 This script showcases the process of training and evaluating tree-based classifiers on a heart disease dataset. It covers key machine learning concepts such as data preprocessing, model training, hyperparameter tuning, and model evaluation.
 
